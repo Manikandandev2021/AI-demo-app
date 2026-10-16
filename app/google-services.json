@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185771045677",
+    "project_id": "maniaidemo",
+    "storage_bucket": "maniaidemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185771045677:android:e4df293ac98b5236c219a4",
+        "android_client_info": {
+          "package_name": "com.mani.aidemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB16h3Vhvu8qT7DMd_sYqz5Df0MjYnODOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
